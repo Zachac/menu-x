@@ -1,0 +1,21 @@
+{
+  "name": "menu-x",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zachac/menu-x.git"
+  },
+  "author": "Zachary Chandler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zachac/menu-x/issues"
+  },
+  "homepage": "https://github.com/Zachac/menu-x#readme",
+  "dependencies": {
+    "lobus": "git+https://github.com/Zachac/lobus.git"
+  }
+}
